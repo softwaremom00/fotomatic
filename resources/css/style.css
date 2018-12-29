@@ -27,12 +27,12 @@ header .content {
 }
 
 header .logo {
-  border: 1px solid blue;
+
   flex: 1;
 }
 
 header nav ul {
-  border: 1px solid blue;
+
   display: flex;
 }
 
